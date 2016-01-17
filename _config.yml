@@ -2,14 +2,16 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               anksanu
+tagline:             ""
+url:                 ""
 paginate:            1
 baseurl:             ""
+
+# Plugins
+gems: [jekyll-paginate,jekyll-gist]
 
 # Assets
 #
@@ -20,11 +22,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Ankit Agrawal
+  url:               https://twitter.com/anksanu
+  email:             agrawal.anksanu@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/anksanu/anksanu.github.io
